@@ -1,0 +1,14 @@
+
+{
+  "name": "private-game-proxy",
+  "version": "1.0.0",
+  "description": "A private proxy to access Slope, Roblox, and social media.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^3.0.0",
+    "express": "^4.19.2"
+  }
+}
